@@ -1,0 +1,14 @@
+.color-while{
+    color: #fff;
+    text-decoration: none !important;
+}
+.color-while:hover{
+    color: #2e59d9;
+}
+.w-name{
+    white-space: nowrap;
+    width: 150px;
+    /*border: 1px solid #000000;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
